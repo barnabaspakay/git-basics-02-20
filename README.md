@@ -6,3 +6,4 @@
 1. git commit -m "message" - commitolás, save point
 1. git push/pull - feltölti a távoli repóba a változásokat, vagy lehúzza a távoli repositoryból a változásokat  
 
+Working directory -> Stage -> Commit -> Local repository -> Remote repository
